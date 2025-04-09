@@ -56,6 +56,3 @@ Create a `.env` file in the backend directory with:
 OPENAI_API_KEY=your_api_key
 ```
 
-## License
-
-MIT 
